@@ -26,7 +26,6 @@
 
 // include ROS 2
 #include "rclcpp/rclcpp.hpp"
-#include <geometry_msgs/msg/pose_stamped.hpp>
 
 
 #include "ros1_bridge/bridge.hpp"
